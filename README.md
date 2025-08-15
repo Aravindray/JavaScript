@@ -1,2 +1,3 @@
 # JavaScript
-Docs, Tips &amp; Tricks
+
+Docs, Tips & Tricks
