@@ -1,3 +1,3 @@
 # JavaScript
 
-Docs, Tips & Tricks
+Learning Docs, Tips & Tricks
